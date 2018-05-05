@@ -2,7 +2,7 @@
 // @author         Magnum357
 // @name           External Link Adder
 // @namespace      -
-// @description    Adds an external links in the end of the title
+// @description    Adds an external link in the end of the title
 // @version        1.0
 
 // @include        https://myanimelist.net/anime/*
